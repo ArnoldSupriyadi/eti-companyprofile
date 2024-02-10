@@ -1118,16 +1118,20 @@ body.nav-active .nav__list-item:nth-child(10) {
 }
 .case-study-images li .img-hero-background-over{
 	position: absolute;
-	width: 60%;
-	height: 60%;
+	/* width: 60%;
+	height: 60%; */
+	width: 100%;
+	height: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 	background-position:center center;
 	background-repeat:no-repeat;
-	top: 20%;
-	left: 20%;
+	/* top: 20%;
+	left: 20%; */
+	top: 0%;
+	left: 0%;
 	overflow: hidden;
 	list-style:none;
 	opacity: 0;
